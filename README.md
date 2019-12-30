@@ -6,5 +6,5 @@ A provider that makes it possible to use [HTMLKit](https://github.com/vapor-comm
 
 Add this as a dependencies in your `Package.swift` file.
 ```swift
-.package(url: "https://github.com/MatsMoll/htmlkit-vapor-3-provider.git", from: "1.0.0")
+.package(url: "https://github.com/MatsMoll/htmlkit-vapor-3-provider.git", from: "1.0.0-beta.2")
 ```
